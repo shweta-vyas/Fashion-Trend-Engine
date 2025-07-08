@@ -1,0 +1,18 @@
+Project Summary: Fashion-Trend-Engine
+
+The "Trend Intelligence Engine" is a comprehensive data analytics project
+designed to discover, analyze, and forecast emerging fashion trends.
+The core technical approach involves creating a multi-source data pipeline that automatically collects and combines trend information 
+from three key cultural platforms: Pinterest, Reddit, and Google Trends.
+
+The project is being developed in phases.
+The current version is a fully functional prototype dashboard built with Python and Streamlit,
+which uses the Google Trends API as its initial data source. 
+This prototype can already analyze a trend's lifecycle, forecast its short-term potential, and identify its regional popularity.
+
+The ultimate outcome of the project is to create
+a complete, multi-source intelligence tool. 
+Once access to the Pinterest API is granted, 
+its data will be integrated with the existing Google Trends and Reddit data fetchers to provide a holistic and 
+highly accurate view of the fashion landscape. The entire system is designed to be automated, with a 
+centralized database and A dashboard for analysis.
